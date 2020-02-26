@@ -1,0 +1,2 @@
+simTime,connectivity,neurons,memory,CPU,timeout,hasExecuted,setupTime,execTime,startTime,endTime,measureTime,hasEndedInTimeout,hasEndedInError
+0.003,0.1542953897277973,3173,4096,4,14400,True,0.06,625.24,1582721109.3909535,1582721735.7843728,626.3934192657471,False,False
