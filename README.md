@@ -5,5 +5,4 @@ It contains two Jupyter notebooks:
 * `taskInspector.ipynb` : is used to load and inspect task lists that were saved as Pickle files.
 
 The .csv files contain execution data as comma-separated values, the .dat file contains a task list.
-
-What's not included in this repo is the Docker container, which has to be pulled.
+The Docker container, which has to be pulled, is not included in this repo.
